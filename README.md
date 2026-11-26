@@ -31,7 +31,7 @@ once a day ──── GET /v1/order/catalog/public/vps  → compact catalog (n
 You need a Cloudflare account (free plan is fine) and Node.js 22+.
 
 ```sh
-git clone <this repo> && cd vps-notifier
+git clone https://github.com/Philou699/vps-notifier.git && cd vps-notifier
 npm install
 npx wrangler login
 
