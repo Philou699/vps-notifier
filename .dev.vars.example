@@ -1,0 +1,2 @@
+# Copy to .dev.vars for `npm run dev`. In production use: npx wrangler secret put DISCORD_WEBHOOK_URL
+DISCORD_WEBHOOK_URL=https://discord.com/api/webhooks/XXXX/YYYY

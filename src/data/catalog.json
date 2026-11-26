@@ -1,0 +1,288 @@
+{
+  "subsidiary": "FR",
+  "currency": "EUR",
+  "taxRate": 20,
+  "updatedAt": "2026-11-26T08:22:43.530Z",
+  "plans": [
+    {
+      "planCode": "vps-2027-model1",
+      "name": "VPS-1 2027",
+      "description": "VPS 2 vCPU 4 GB RAM 40 GB disk",
+      "vcpu": 2,
+      "ramGb": 4,
+      "diskGb": 40,
+      "price": 4.49,
+      "datacenters": [
+        "BHS",
+        "DE",
+        "EU-SOUTH-MIL",
+        "EU-WEST-RBX",
+        "GRA",
+        "SBG",
+        "SGP",
+        "SYD",
+        "UK",
+        "WAW",
+        "YNM"
+      ]
+    },
+    {
+      "planCode": "vps-2027-model1.LZ",
+      "name": "VPS-1 LZ 2027",
+      "description": "VPS 2 vCPU 4 GB RAM 40 GB disk",
+      "vcpu": 2,
+      "ramGb": 4,
+      "diskGb": 40,
+      "price": 5.49,
+      "datacenters": [
+        "EU-CENTRAL-LZ-PRG",
+        "EU-CENTRAL-LZ-SOF",
+        "EU-NORTH-LZ-STO",
+        "EU-SOUTH-LZ-MAD",
+        "EU-WEST-LZ-AMS",
+        "EU-WEST-LZ-BRU",
+        "EU-WEST-LZ-DLN",
+        "EU-WEST-LZ-MRS",
+        "EU-WEST-LZ-VIE",
+        "EU-WEST-LZ-ZRH"
+      ]
+    },
+    {
+      "planCode": "vps-2025-model1",
+      "name": "VPS-1 2026",
+      "description": "VPS 4 vCPU 8 GB RAM 75 GB disk",
+      "vcpu": 4,
+      "ramGb": 8,
+      "diskGb": 75,
+      "price": 6.49,
+      "datacenters": [
+        "BHS",
+        "DE",
+        "GRA",
+        "SBG",
+        "SGP",
+        "SYD",
+        "UK",
+        "WAW",
+        "YNM",
+        "EU-SOUTH-MIL",
+        "EU-WEST-RBX"
+      ]
+    },
+    {
+      "planCode": "vps-2025-model1.LZ",
+      "name": "VPS-1 LZ 2026",
+      "description": "VPS 4 vCPU 8 GB RAM 75 GB disk",
+      "vcpu": 4,
+      "ramGb": 8,
+      "diskGb": 75,
+      "price": 7.49,
+      "datacenters": [
+        "EU-CENTRAL-LZ-PRG",
+        "EU-SOUTH-LZ-MAD",
+        "EU-WEST-LZ-AMS",
+        "EU-WEST-LZ-BRU",
+        "EU-WEST-LZ-MRS",
+        "EU-WEST-LZ-VIE",
+        "EU-WEST-LZ-ZRH"
+      ]
+    },
+    {
+      "planCode": "vps-2027-model2",
+      "name": "VPS-2 2027",
+      "description": "VPS 4 vCPU 8 GB RAM 75 GB disk",
+      "vcpu": 4,
+      "ramGb": 8,
+      "diskGb": 75,
+      "price": 8.49,
+      "datacenters": [
+        "BHS",
+        "DE",
+        "EU-SOUTH-MIL",
+        "EU-WEST-RBX",
+        "GRA",
+        "SBG",
+        "SGP",
+        "SYD",
+        "UK",
+        "WAW",
+        "YNM"
+      ]
+    },
+    {
+      "planCode": "vps-2027-model2.LZ",
+      "name": "VPS-2 LZ 2027",
+      "description": "VPS 4 vCPU 8 GB RAM 75 GB disk",
+      "vcpu": 4,
+      "ramGb": 8,
+      "diskGb": 75,
+      "price": 8.49,
+      "datacenters": [
+        "EU-CENTRAL-LZ-PRG",
+        "EU-CENTRAL-LZ-SOF",
+        "EU-NORTH-LZ-STO",
+        "EU-SOUTH-LZ-MAD",
+        "EU-WEST-LZ-AMS",
+        "EU-WEST-LZ-BRU",
+        "EU-WEST-LZ-DLN",
+        "EU-WEST-LZ-MRS",
+        "EU-WEST-LZ-VIE",
+        "EU-WEST-LZ-ZRH"
+      ]
+    },
+    {
+      "planCode": "vps-2025-model2",
+      "name": "VPS-2 2026",
+      "description": "VPS 6 vCPU 12 GB RAM 100 GB disk",
+      "vcpu": 6,
+      "ramGb": 12,
+      "diskGb": 100,
+      "price": 9.99,
+      "datacenters": [
+        "BHS",
+        "DE",
+        "GRA",
+        "SBG",
+        "SGP",
+        "SYD",
+        "UK",
+        "WAW",
+        "YNM",
+        "EU-SOUTH-MIL",
+        "EU-WEST-RBX"
+      ]
+    },
+    {
+      "planCode": "vps-2027-model3",
+      "name": "VPS-3 2027",
+      "description": "VPS 6 vCPU 12 GB RAM 100 GB disk",
+      "vcpu": 6,
+      "ramGb": 12,
+      "diskGb": 100,
+      "price": 12.24,
+      "datacenters": [
+        "BHS",
+        "DE",
+        "EU-SOUTH-MIL",
+        "EU-WEST-RBX",
+        "GRA",
+        "SBG",
+        "SGP",
+        "SYD",
+        "UK",
+        "WAW",
+        "YNM"
+      ]
+    },
+    {
+      "planCode": "vps-2025-model3",
+      "name": "VPS-3 2026",
+      "description": "VPS 8 vCPU 24 GB RAM 200 GB disk",
+      "vcpu": 8,
+      "ramGb": 24,
+      "diskGb": 200,
+      "price": 19.99,
+      "datacenters": [
+        "BHS",
+        "DE",
+        "GRA",
+        "SBG",
+        "SGP",
+        "SYD",
+        "UK",
+        "WAW",
+        "YNM",
+        "EU-SOUTH-MIL",
+        "EU-WEST-RBX"
+      ]
+    },
+    {
+      "planCode": "vps-2027-model4",
+      "name": "VPS-4 2027",
+      "description": "VPS 8 vCPU 24 GB RAM 200 GB disk",
+      "vcpu": 8,
+      "ramGb": 24,
+      "diskGb": 200,
+      "price": 23.49,
+      "datacenters": [
+        "BHS",
+        "DE",
+        "EU-SOUTH-MIL",
+        "EU-WEST-RBX",
+        "GRA",
+        "SBG",
+        "SGP",
+        "SYD",
+        "UK",
+        "WAW",
+        "YNM"
+      ]
+    },
+    {
+      "planCode": "vps-2025-model4",
+      "name": "VPS-4 2026",
+      "description": "VPS 12 vCPU 48 GB RAM 300 GB disk",
+      "vcpu": 12,
+      "ramGb": 48,
+      "diskGb": 300,
+      "price": 36.99,
+      "datacenters": [
+        "BHS",
+        "DE",
+        "GRA",
+        "SBG",
+        "SGP",
+        "SYD",
+        "UK",
+        "WAW",
+        "YNM",
+        "EU-SOUTH-MIL",
+        "EU-WEST-RBX"
+      ]
+    },
+    {
+      "planCode": "vps-2025-model5",
+      "name": "VPS-5 2026",
+      "description": "VPS 16 vCPU 64 GB RAM 350 GB disk",
+      "vcpu": 16,
+      "ramGb": 64,
+      "diskGb": 350,
+      "price": 54.99,
+      "datacenters": [
+        "BHS",
+        "DE",
+        "GRA",
+        "SBG",
+        "SGP",
+        "SYD",
+        "UK",
+        "WAW",
+        "YNM",
+        "EU-SOUTH-MIL",
+        "EU-WEST-RBX"
+      ]
+    },
+    {
+      "planCode": "vps-2025-model6",
+      "name": "VPS-6 2026",
+      "description": "VPS 24 vCPU 96 GB RAM 400 GB disk",
+      "vcpu": 24,
+      "ramGb": 96,
+      "diskGb": 400,
+      "price": 72.99,
+      "datacenters": [
+        "BHS",
+        "DE",
+        "GRA",
+        "SBG",
+        "SGP",
+        "SYD",
+        "UK",
+        "WAW",
+        "YNM",
+        "EU-SOUTH-MIL",
+        "EU-WEST-RBX"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+    "datacenters": [
+        {
+            "datacenter": "WAW",
+            "code": "eu-central-waw",
+            "status": "available",
+            "daysBeforeDelivery": 0,
+            "linuxStatus": "available",
+            "windowsStatus": "out-of-stock"
+        },
+        {
+            "datacenter": "BHS",
+            "code": "ca-east-bhs",
+            "status": "out-of-stock",
+            "daysBeforeDelivery": 0,
+            "linuxStatus": "out-of-stock",
+            "windowsStatus": "out-of-stock"
+        },
+        {
+            "datacenter": "DE",
+            "code": "eu-west-lim",
+            "status": "out-of-stock",
+            "daysBeforeDelivery": 0,
+            "linuxStatus": "out-of-stock",
+            "windowsStatus": "out-of-stock"
+        },
+        {
+            "datacenter": "EU-SOUTH-MIL",
+            "code": "eu-south-mil",
+            "status": "out-of-stock",
+            "daysBeforeDelivery": 0,
+            "linuxStatus": "out-of-stock",
+            "windowsStatus": "out-of-stock"
+        },
+        {
+            "datacenter": "EU-WEST-RBX",
+            "code": "eu-west-rbx",
+            "status": "out-of-stock",
+            "daysBeforeDelivery": 0,
+            "linuxStatus": "out-of-stock",
+            "windowsStatus": "out-of-stock"
+        },
+        {
+            "datacenter": "GRA",
+            "code": "eu-west-gra",
+            "status": "out-of-stock",
+            "daysBeforeDelivery": 0,
+            "linuxStatus": "out-of-stock",
+            "windowsStatus": "out-of-stock"
+        },
+        {
+            "datacenter": "SBG",
+            "code": "eu-west-sbg",
+            "status": "out-of-stock",
+            "daysBeforeDelivery": 0,
+            "linuxStatus": "out-of-stock",
+            "windowsStatus": "out-of-stock"
+        },
+        {
+            "datacenter": "SGP",
+            "code": "ap-southeast-sgp",
+            "status": "out-of-stock",
+            "daysBeforeDelivery": 0,
+            "linuxStatus": "out-of-stock",
+            "windowsStatus": "out-of-stock"
+        },
+        {
+            "datacenter": "SYD",
+            "code": "ap-southeast-syd",
+            "status": "out-of-stock",
+            "daysBeforeDelivery": 0,
+            "linuxStatus": "out-of-stock",
+            "windowsStatus": "out-of-stock"
+        },
+        {
+            "datacenter": "UK",
+            "code": "eu-west-eri",
+            "status": "out-of-stock",
+            "daysBeforeDelivery": 0,
+            "linuxStatus": "out-of-stock",
+            "windowsStatus": "out-of-stock"
+        },
+        {
+            "datacenter": "YNM",
+            "code": "ap-south-mum",
+            "status": "out-of-stock",
+            "daysBeforeDelivery": 0,
+            "linuxStatus": "out-of-stock",
+            "windowsStatus": "out-of-stock"
+        }
+    ]
+}
